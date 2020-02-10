@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://mohqueeti.yangjing.bid/sitemap.xml
